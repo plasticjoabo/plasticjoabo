@@ -10,8 +10,8 @@
   
 #### 😻 Projects
 
-- trying to release my first game on Steam
-- working on a website about lusophone literature
+- trying to release my first game on steam
+- creating a website about lusophone literature
 
 #### 😼 Tools
 
