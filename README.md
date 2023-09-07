@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=200&color=0087FF&width=435&lines=my+name+is+jo%C3%A1s;tanks+for+visiting+my+profile;we+will+win" alt="Typing SVG" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=plasticjoabo&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Joás+stats&nbsp&;Stats&title_color=FF0070&icon_color=FF0070&text_color=0087FF&bg_color=0B1213&count_private=true" alt="GitHub readme stats" width=550px align=right>
-
  #### 😺 Little bit about me
 - a brazilian dude
 - english and portuguese (for now)
